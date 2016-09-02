@@ -1,6 +1,6 @@
 {
   "name": "dgp-bootstrap-sass",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Bootstrap-Sass with custom styling",
   "main": "dist/main.css",
   "scripts": {},

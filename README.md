@@ -1,6 +1,6 @@
 # Dgp custom Bootstrap-Sass
 
-v0.2.1
+v0.2.2
 
 ## What is this repository for?
 
