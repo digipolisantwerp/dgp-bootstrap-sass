@@ -1,12 +1,12 @@
 {
   "name": "dgp-bootstrap-sass",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Bootstrap-Sass with custom styling",
   "main": "dist/main.css",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/lievenvg/dgp-bootstrap-sass.git"
+    "url": "git://github.com/digipolisantwerp/dgp-bootstrap-sass.git"
   },
   "keywords": [
     "dgp",
@@ -16,9 +16,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lievenvg/dgp-bootstrap-sass/issues"
+    "url": "https://github.com/digipolisantwerp/dgp-bootstrap-sass/issues"
   },
-  "homepage": "https://github.com/lievenvg/dgp-bootstrap-sass#readme",
+  "homepage": "https://github.com/digipolisantwerp/dgp-bootstrap-sass#readme",
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
     "gulp": "^3.9.1",

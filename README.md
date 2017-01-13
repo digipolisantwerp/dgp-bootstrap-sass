@@ -1,6 +1,6 @@
 # Dgp custom Bootstrap-Sass
 
-v0.4.0
+v0.5.0
 
 ## What is this repository for?
 
@@ -14,7 +14,7 @@ The dgp custom styling adds some necessary styling to Bootstrap.
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Stad Antwerpen
+Copyright (c) 2017 Stad Antwerpen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
